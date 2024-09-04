@@ -1,0 +1,20 @@
+* org-filer.el
+
+Works only under filesystem with symlinks.
+
+** Features
+
+** Installation
+
+*** Straight
+
+*** Manual
+
+** Usage
+
+** Customization
+
+** Contribution
+
+Contributions are welcome! Please create an issue or submit a pull request.
+
